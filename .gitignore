@@ -1,0 +1,7 @@
+# add clion files.
+.idea/
+cmake-build-debug/
+cmake-build-release/
+
+# add project files.
+resources/
